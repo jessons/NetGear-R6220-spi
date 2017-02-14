@@ -550,6 +550,9 @@ ramips_board_detect() {
 	*"WL-WN575A3")
 		name="wl-wn575a3"
 		;;
+	*"R6220 (SPI Flash)")
+		name="r6220-spi"
+		;;
 	*"WLI-TX4-AG300N")
 		name="wli-tx4-ag300n"
 		;;
