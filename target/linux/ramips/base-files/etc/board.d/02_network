@@ -89,6 +89,7 @@ ramips_setup_interfaces()
 	mzk-w300nh2|\
 	nixcore|\
 	oy-0001|\
+	r6220-spi|\
 	pbr-m1|\
 	psg1208|\
 	psg1218|\
